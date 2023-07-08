@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/novo-site/static/css/main.073c9b0a.css",
-    "main.js": "/novo-site/static/js/main.0420ba21.js",
+    "main.js": "/novo-site/static/js/main.c79beee1.js",
     "static/js/787.eee22ae0.chunk.js": "/novo-site/static/js/787.eee22ae0.chunk.js",
     "index.html": "/novo-site/index.html",
     "main.073c9b0a.css.map": "/novo-site/static/css/main.073c9b0a.css.map",
-    "main.0420ba21.js.map": "/novo-site/static/js/main.0420ba21.js.map",
+    "main.c79beee1.js.map": "/novo-site/static/js/main.c79beee1.js.map",
     "787.eee22ae0.chunk.js.map": "/novo-site/static/js/787.eee22ae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0420ba21.js"
+    "static/js/main.c79beee1.js"
   ]
 }
